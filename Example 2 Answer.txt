@@ -1,0 +1,3 @@
+As the hidden nodes are increase the accuracy gradually rises, but after a certain number of increases the accuracy
+starts to drop. But if you keep increasing the hidden nodes the accuracy rises again and at a certain point starts to 
+drop again. I assume this will continue till infinity. 
